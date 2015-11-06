@@ -1,0 +1,6 @@
+# mac os x
+.DS_Store
+
+# clion temporary files
+.idea
+.xml
